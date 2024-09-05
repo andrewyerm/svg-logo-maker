@@ -1,4 +1,6 @@
 # svg-logo-maker
+this project helps create logos, creates shape, text, and colors.
+
 User Story
 AS a freelance web developer
 I WANT to generate a simple logo for my projects
